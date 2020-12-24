@@ -1,7 +1,5 @@
-# Zip-file-Bruteforcer
-A program created with python 3 for bruteforcing zip files.
+# Zip File Dictionary Attack
+A program created with python 3 for cracking zip files using a dictionary attack.
 
 ### Note:
-This program only works with **zip** files encrypted using CryptoZip.
-
-Don't use for illegal means.
+This program only works with **zip** files encrypted using **CryptoZip**.
